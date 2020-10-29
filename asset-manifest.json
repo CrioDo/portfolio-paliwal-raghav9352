@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-paliwal-raghav9352/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-paliwal-raghav9352/static/js/main.670861bc.chunk.js",
+    "main.js.map": "/portfolio-paliwal-raghav9352/static/js/main.670861bc.chunk.js.map",
+    "runtime-main.js": "/portfolio-paliwal-raghav9352/static/js/runtime-main.66363a7e.js",
+    "runtime-main.js.map": "/portfolio-paliwal-raghav9352/static/js/runtime-main.66363a7e.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-paliwal-raghav9352/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.0303cad2.chunk.js": "/portfolio-paliwal-raghav9352/static/js/2.0303cad2.chunk.js",
+    "static/js/2.0303cad2.chunk.js.map": "/portfolio-paliwal-raghav9352/static/js/2.0303cad2.chunk.js.map",
+    "index.html": "/portfolio-paliwal-raghav9352/index.html",
+    "precache-manifest.6c4298a01f05076109ffc76f07faa017.js": "/portfolio-paliwal-raghav9352/precache-manifest.6c4298a01f05076109ffc76f07faa017.js",
+    "service-worker.js": "/portfolio-paliwal-raghav9352/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-paliwal-raghav9352/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-paliwal-raghav9352/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.0303cad2.chunk.js.LICENSE.txt": "/portfolio-paliwal-raghav9352/static/js/2.0303cad2.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-paliwal-raghav9352/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-paliwal-raghav9352/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66363a7e.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.0303cad2.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.670861bc.chunk.js"
+  ]
+}
